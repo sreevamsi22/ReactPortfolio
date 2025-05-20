@@ -5,7 +5,7 @@ function About() {
     <section style={styles.section}>
       <h2 style={styles.heading}>About Me</h2>
       <p style={styles.text}>
-To work in a professional industry that enables me to adapt to emerging trends and technologies, broadening my knowledge and achieving professional satisfaction and growth by effectively contributing to the organization's goals. As an energetic self-starter and perpetual learner, I am keen to explore and master new technologies
+To work in a professional industry that enables me to adapt to emerging trends and technologies, broadening my knowledge and achieving professional satisfaction and growth by effectively contributing to the organization's goals. As an energetic self-starter and perpetual learner, I am keen to explore and master new technologies.
       </p>
 
       <h3 style={styles.subheading}>Education</h3>

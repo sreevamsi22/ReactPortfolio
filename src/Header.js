@@ -4,7 +4,7 @@ function Header() {
   return (
     <header style={styles.header}>
       <h1 style={styles.name}>Sree Vamsi Duvvuri</h1>
-      <p style={styles.title}>Aspiring UI/UX Developer</p>
+      <p style={styles.title}>Python, C++, Automation for Efficiency, Docker,ReactJS.</p>
 
       <div style={styles.linkGroup}>
         <a href="mailto:sreevamsi22@gmail.com" style={styles.link}>sreevamsi22@gmail.com</a>
