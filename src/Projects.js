@@ -9,9 +9,15 @@ function Projects() {
       tools: 'Arduino UNO, HC-SR04, Arduino IDE',
     },
     {
-      title: 'ML Algorithm Comparison',
+      title: 'ML Algorithm Comparison for mobile price prediction',
       description:
         'Compared three ML models for predicting mobile prices. Random Forest gave the highest accuracy.',
+      tools: 'Python, Jupyter, Kaggle',
+    },
+      {
+      title: 'ML Algorithm Comparison for concrete strength prediction',
+      description:
+        'Developed a machine learning model to predict concrete compressive strength using SVM, Decision Tree, Random Forest, Linear Regression, and Neural Networks, improving construction material evaluation accuracy.',
       tools: 'Python, Jupyter, Kaggle',
     },
     {
@@ -21,6 +27,7 @@ function Projects() {
       tools: 'Python, Flask, Docker',
       link: 'https://github.com/sreevamsi22/safedep_assignment',
     },
+
     {
       title: 'Log File Parser – Guidanz App',
       description:
