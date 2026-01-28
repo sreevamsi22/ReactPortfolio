@@ -40,7 +40,17 @@ function Projects() {
         'Automated syncing of STXT, XML, INI translation files with dev versions to streamline localization.',
       tools: 'Python, Custom Script Parsing',
     },
+
+    {
+      title: 'Random Password Generator App',
+      description:
+        'A Flutter app that generates secure random passwords based on user-selected criteria. Includes toggles for lowercase, uppercase, numbers, symbols, and a copy-to-clipboard feature.',
+      tools: 'Flutter, Dart, Android Studio',
+      link: 'https://github.com/sreevamsi22/flutter-password-generator',
+    },
+
   ];
+
 
   return (
     <section style={styles.section}>
