@@ -3,12 +3,6 @@ import React from 'react';
 function Projects() {
   const projectList = [
     {
-      title: 'Auto Sensible Car',
-      description:
-        'Arduino-based project using ultrasonic sensors to detect and avoid obstacles.',
-      tools: 'Arduino UNO, HC-SR04, Arduino IDE',
-    },
-    {
       title: 'ML Algorithm Comparison for mobile price prediction',
       description:
         'Compared three ML models for predicting mobile prices. Random Forest gave the highest accuracy.',
