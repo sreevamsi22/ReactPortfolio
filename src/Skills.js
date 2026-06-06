@@ -21,6 +21,10 @@ function Skills() {
           <h3>Operating Systems</h3>
           <p>Unix, Mac OS, Windows</p>
         </div>
+        <div style={styles.skillBox}>
+          <h3>Front end</h3>
+          <p>HTML, CSS, JavaScript, React, Flutter, Dart</p>
+        </div>
       </div>
     </section>
   );
